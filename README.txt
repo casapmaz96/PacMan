@@ -1,6 +1,9 @@
 PACMAN
 Cansin Aysegul Sapmaz
 
+PROJECT REPORT: sapmaz_707cw_report.pdf
+PROJECT PRESENTATION: sapmaz_707cw_presentation.mp4
+
 ### CONTRIBUTION ###
 
 Files that contain my reinforcement learning contributions:
